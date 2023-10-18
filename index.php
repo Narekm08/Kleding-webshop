@@ -164,6 +164,10 @@ span.psw {
   
 </header>
 <main>
+ <video width="320" height="240"  loop autoplay muted>
+  <source src="movie.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 <section class="product">
 <img src="images/product1.jpg" alt="Kledingstuk 1">
 <h2>Kledingstuk 1</h2>
