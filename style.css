@@ -8,14 +8,17 @@ body, h1, h2, p {
 body {
    font-family: Arial, sans-serif;
    background-color: #f4f4f4;
-   color: #333;
 }
 
 header {
-   background-color: #333;
-   color: #fff;
+   background-image: url("https://as1.ftcdn.net/v2/jpg/01/12/88/76/1000_F_112887635_fRWg0G83anyXSGcTk730yV7XElnq8wve.jpg");
+   background-size: cover; 
    text-align: center;
    padding: 20px;
+}
+
+header h1{
+ color: #CCC59B;   
 }
 
 nav ul {
