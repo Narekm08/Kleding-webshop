@@ -1,0 +1,40 @@
+/* Reset standaardmarges en -paddings */
+body, h1, h2, p {
+   margin: 0;
+   padding: 0;
+}
+
+/* Algemene stijl voor de pagina */
+body {
+   font-family: Arial, sans-serif;
+   background-color: #f4f4f4;
+}
+
+header {
+   background-image: url("https://as1.ftcdn.net/v2/jpg/01/12/88/76/1000_F_112887635_fRWg0G83anyXSGcTk730yV7XElnq8wve.jpg");
+   background-size: cover; 
+   text-align: center;
+   padding: 20px;
+}
+
+header h1{
+ color: #CCC59B;   
+}
+
+nav ul {
+   list-style: none;
+}
+
+nav ul li {
+   display: inline;
+   margin-right: 20px;
+}
+
+/* Stijl voor productsecties, knoppen en andere elementen */
+.product {
+   border: 1px solid #ddd;
+   padding: 20px;
+   margin-bottom: 20px;
+}
+
+/* Voeg meer CSS-stijlen toe voor andere elementen zoals knoppen en voetteksten */
