@@ -46,8 +46,8 @@ clear: both;
 <li><a href="dames.php">Dames</a></li>
 <li><a href="heren.php">Heren</a></li>
 <li><a href="kinderen.php">Kinderen</a></li>
-<li><a href="#">Over ons</a></li>
-<li><a href="#">Contact</a></li>
+<li><a href="overons.php">Over ons</a></li>
+<li><a href="contact.php">Contact</a></li>
     
 <button style="font-size:16px">Winkelwagen <i class="fa fa-shopping-cart"></i></button> 
 </ul>
@@ -55,11 +55,11 @@ clear: both;
   
 </header>
 <main>
-<video width="400" controls>
-  <source src="video.mp4" type="video/mp4">
-
-  Your browser does not support HTML video.
-</video>
+<center> <video width="1200" height="720" autoplay muted loop>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+</center>
+        </video>    
 
 
 </section>
@@ -73,6 +73,24 @@ echo $_COOKIE['trui'];
 </main>
 <footer>
 <p id="iWantToScrollHere" name="iWantToScrollHere"></p>
+
+        
+        
+        
+        
+        
+        
 </footer>
 </body>
-</html>
+
+     
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        </html>
