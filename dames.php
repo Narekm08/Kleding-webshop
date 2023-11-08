@@ -53,8 +53,8 @@ clear: both;
 <li><a href="dames.php">Dames</a></li>
 <li><a href="heren.php">Heren</a></li>
 <li><a href="kinderen.php">Kinderen</a></li>
-<li><a href="#">Over ons</a></li>
-<li><a href="#">Contact</a></li>
+<li><a href="overons.php">Over ons</a></li>
+<li><a href="contact.php">Contact</a></li>
     
 <button style="font-size:16px">Winkelwagen <i class="fa fa-shopping-cart"></i></button> 
 </ul>
@@ -68,21 +68,21 @@ clear: both;
 
     <div class="kleding">
         <img class="kledingplaatje" src="https://bmn.xcdn.nl/images/195137-wt-1.jpg?f=rs:fit:1920:1920" alt="Kledingstuk 1">
-         <h2>Ralph Lauren trui</h2>
+         <h2>Tommy hilfiger </h2>
         <p>Kleur: zwart maat: S.</p>
         <p>Prijs: € 90,00</p>
         <button>Toevoegen aan winkelwagen</button> 
     </div>
     <div class="kleding">
         <img class="kledingplaatje" src="https://bmn.xcdn.nl/images/195137-wt-1.jpg?f=rs:fit:1920:1920" alt="Kledingstuk 1">
-         <h2>Ralph Lauren trui</h2>
+         <h2>Tommy hilfiger </h2>
         <p>Kleur: zwart maat: S.</p>
         <p>Prijs: € 90,00</p>
         <button>Toevoegen aan winkelwagen</button> 
     </div>
     <div class="kleding">
         <img class="kledingplaatje" src="https://bmn.xcdn.nl/images/195137-wt-1.jpg?f=rs:fit:1920:1920" alt="Kledingstuk 1">
-         <h2>Ralph Lauren trui</h2>
+         <h2>Tommy hilfiger </h2>
         <p>Kleur: zwart maat: S.</p>
         <p>Prijs: € 90,00</p>
         <button>Toevoegen aan winkelwagen</button> 
@@ -90,7 +90,7 @@ clear: both;
 
  <div class="kleding">
         <img class="kledingplaatje" src="https://bmn.xcdn.nl/images/195137-wt-1.jpg?f=rs:fit:1920:1920" alt="Kledingstuk 1">
-         <h2>Ralph Lauren trui</h2>
+         <h2>Tommy hilfiger </h2>
         <p>Kleur: zwart maat: S.</p>
         <p>Prijs: € 90,00</p>
         <button>Toevoegen aan winkelwagen</button> 
@@ -98,16 +98,7 @@ clear: both;
 
  <div class="kleding">
         <img class="kledingplaatje" src="https://bmn.xcdn.nl/images/195137-wt-1.jpg?f=rs:fit:1920:1920" alt="Kledingstuk 1">
-         <h2>Ralph Lauren trui</h2>
-        <p>Kleur: zwart maat: S.</p>
-        <p>Prijs: € 90,00</p>
-        <button>Toevoegen aan winkelwagen</button> 
-    </div>
-
-
- <div class="kleding">
-        <img class="kledingplaatje" src="https://bmn.xcdn.nl/images/195137-wt-1.jpg?f=rs:fit:1920:1920" alt="Kledingstuk 1">
-         <h2>Ralph Lauren trui</h2>
+         <h2>Tommy hilfiger </h2>
         <p>Kleur: zwart maat: S.</p>
         <p>Prijs: € 90,00</p>
         <button>Toevoegen aan winkelwagen</button> 
@@ -116,7 +107,16 @@ clear: both;
 
  <div class="kleding">
         <img class="kledingplaatje" src="https://bmn.xcdn.nl/images/195137-wt-1.jpg?f=rs:fit:1920:1920" alt="Kledingstuk 1">
-         <h2>Ralph Lauren trui</h2>
+         <h2>Tommy hilfiger </h2>
+        <p>Kleur: zwart maat: S.</p>
+        <p>Prijs: € 90,00</p>
+        <button>Toevoegen aan winkelwagen</button> 
+    </div>
+
+
+ <div class="kleding">
+        <img class="kledingplaatje" src="https://bmn.xcdn.nl/images/195137-wt-1.jpg?f=rs:fit:1920:1920" alt="Kledingstuk 1">
+         <h2>Tommy hilfiger </h2>
         <p>Kleur: zwart maat: S.</p>
         <p>Prijs: € 90,00</p>
         <button>Toevoegen aan winkelwagen</button> 
@@ -124,7 +124,7 @@ clear: both;
 
  <div class="kleding">
         <img class="kledingplaatje" src="https://bmn.xcdn.nl/images/195137-wt-1.jpg?f=rs:fit:1920:1920" alt="Kledingstuk 1">
-         <h2>Ralph Lauren trui</h2>
+         <h2>Tommy hilfiger</h2>
         <p>Kleur: zwart maat: S.</p>
         <p>Prijs: € 90,00</p>
         <button>Toevoegen aan winkelwagen</button> 
@@ -132,7 +132,7 @@ clear: both;
 
  <div class="kleding">
         <img class="kledingplaatje" src="https://bmn.xcdn.nl/images/195137-wt-1.jpg?f=rs:fit:1920:1920" alt="Kledingstuk 1">
-         <h2>Ralph Lauren trui</h2>
+         <h2>Tommy hilfiger</h2>
         <p>Kleur: zwart maat: S.</p>
         <p>Prijs: € 90,00</p>
         <button>Toevoegen aan winkelwagen</button> 
@@ -140,7 +140,7 @@ clear: both;
 
  <div class="kleding">
         <img class="kledingplaatje" src="https://bmn.xcdn.nl/images/195137-wt-1.jpg?f=rs:fit:1920:1920" alt="Kledingstuk 1">
-         <h2>Ralph Lauren trui</h2>
+         <h2>Tommy hilfiger </h2>
         <p>Kleur: zwart maat: S.</p>
         <p>Prijs: € 90,00</p>
         <button>Toevoegen aan winkelwagen</button> 
