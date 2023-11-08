@@ -52,9 +52,9 @@ clear: both;
     
 <li><a href="dames.php">Dames</a></li>
 <li><a href="heren.php">Heren</a></li>
-<li><a href="#">Kinderen</a></li>
-<li><a href="#">Over ons</a></li>
-<li><a href="#">Contact</a></li>
+<li><a href="kinderen.php">Kinderen</a></li>
+<li><a href="overons.php">Over ons</a></li>
+<li><a href="contact.php">Contact</a></li>
     
 <button style="font-size:16px">Winkelwagen <i class="fa fa-shopping-cart"></i></button> 
 </ul>
