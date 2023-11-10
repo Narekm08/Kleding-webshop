@@ -28,6 +28,20 @@
 #fix{
 clear: both;
 }
+
+
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+  z-index: -6;
+  margin-top: -100px;
+top: 230px;
+
+}
     </style>
 </head>
     
@@ -43,20 +57,20 @@ clear: both;
     
     
     
-<li><a href="dames.php">Dames</a></li>
+<li><a href="dames.php">Dames</a></li>       
 <li><a href="heren.php">Heren</a></li>
 <li><a href="kinderen.php">Kinderen</a></li>
 <li><a href="overons.php">Over ons</a></li>
 <li><a href="contact.php">Contact</a></li>
-    
+ <li><a href="account.php">Account</a></li>   
 <button style="font-size:16px">Winkelwagen <i class="fa fa-shopping-cart"></i></button> 
 </ul>
 </nav>
   
 </header>
 <main>
-<center> <video width="1200" height="720" autoplay muted loop>
-  <source src="movie.mp4" type="video/mp4">
+<center> <video id="myVideo"  autoplay muted loop>
+        <source src="movie.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
 </center>
         </video>    
