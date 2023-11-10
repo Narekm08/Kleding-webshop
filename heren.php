@@ -55,7 +55,7 @@ clear: both;
 <li><a href="kinderen.php">Kinderen</a></li>
 <li><a href="overons.php">Over ons</a></li>
 <li><a href="contact.php">Contact</a></li>
-    
+    <li><a href="account.php">Account</a></li> 
 <button style="font-size:16px">Winkelwagen <i class="fa fa-shopping-cart"></i></button> 
 </ul>
 </nav>
